@@ -1,0 +1,293 @@
+@charset "utf-8";
+
+a {text-decoration: none}
+
+a:link, a:visited {
+color:#007eff;
+} 
+
+a:hover, a:active {
+color:red;
+}
+
+html { 
+  background: url(../Photos/1286_Paradise_Cove.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+#wrapper {
+	width: auto;
+	border: 1px solid #000000;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	max-width: 800px;
+	min-width: 290px;
+	border-radius: 10px;
+}
+#header {
+	width: auto;
+	color: #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin: auto;
+	background-color: #BC6401;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 200%;
+	line-height: normal;
+	padding-top: 15px;
+	border: 1px solid #000000;
+	padding-bottom: 15px;
+	font-weight: normal;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+#search {
+	text-align: left;
+	background-color: #E89101;
+	border: 1px solid #000000;
+	width: auto;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	height: auto;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 80%;
+}
+#navigation {
+	width: auto;
+	height: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #FFE085;
+	border: 1px solid #000000;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 100%;
+}
+#navigation ul {
+	display: list-item;
+}
+#navigation ul li {
+	width: 100%;
+	height: 130px;
+	padding: 20px;
+	display: inline;
+}
+#navigation ul li a {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 80%;
+	border: 1px solid #000000;
+	margin: 3px;
+	padding: 0;
+	position: relative;
+}
+#navigation_history {
+	width: auto;
+	height: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #FFFE7D;
+	border: 1px solid #000000;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 100%;
+}
+#navigation_history ul {
+	display: list-item;
+}
+#navigation_history ul li {
+	width: 100%;
+	height: 130px;
+	padding: 20px;
+	display: inline;
+}
+#navigation_history ul li a {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 80%;
+	border: 1px solid #000000;
+	margin: 3px;
+	padding: 0;
+	position: relative;
+}
+
+#navigation_descriptions {
+	width: auto;
+	height: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #FFFE7D;
+	border: 1px solid #000000;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 100%;
+}
+#navigation_descriptions ul {
+	display: list-item;
+}
+#navigation_descriptions ul li {
+	width: 100%;
+	height: 130px;
+	padding: 20px;
+	display: inline;
+}
+#navigation_descriptions ul li a {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 80%;
+	border: 1px solid #000000;
+	margin: 3px;
+	padding: 0;
+	position: relative;
+}
+
+#navigation_mileage {
+	width: auto;
+	height: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #FFFE7D;
+	border: 1px solid #000000;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 100%;
+}
+#navigation_mileage ul {
+	display: list-item;
+}
+#navigation_mileage ul li {
+	width: 100%;
+	height: 130px;
+	padding: 20px;
+	display: inline;
+}
+#navigation_mileage ul li a {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 80%;
+	border: 1px solid #000000;
+	margin: 3px;
+	padding: 0;
+	position: relative;
+}
+#body_text {
+	width: auto;
+	height: auto;
+	text-align: center;
+	border: 1px solid #000000;
+	background-color: #F0F0F0;
+}
+#body_inner {
+	width: 95%;
+	margin: auto;
+	text-align: left;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 95%;
+	border: 0px none #FFFFFF;
+	text-indent: 0px;
+	top: auto;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	color: #696969;
+}
+#body_inner h1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 120%;
+	color: #808080;
+	text-align: center;
+}
+
+#body_inner h2 {
+	font-size: 110%;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #808080;
+}
+
+
+#footer {
+	width: auto;
+	height: 50px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	border: 1px solid #000000;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	left: auto;
+	background-color: #E89101;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+
+
+#footer_left {
+	border: 0 solid #000000;
+	background-color: #E89101;
+	width: 260px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	font-size: 75%;
+	float: left;
+	height: auto;
+}
+#footer_right {
+	background-color: #FBF166;
+	border: 0 solid #000000;
+	width: 510px;
+	text-align: center;
+	float: right;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 100%;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	height: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	left: auto;
+	margin: auto;
+	vertical-align: middle;
+}
+#body_inner div table {
+	
+	border: 0;
+	border-radius: 0;
+	width: 100%;
+	border-collapse: separate;
+	padding: 5px;
+	border: 0px none;
+}
+td div table {
+	padding: 3px;
+	border: 1px solid #ababab;
+}
+
+#bookmarks {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 80%;
+}
+tr td table {
+	padding: 2px;
+	border: 1px solid #ababab;
+	border-color: #ababab;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 95%;
+}
+
+.embed-responsive {
+	position: relative;
+	width: 100%;
+	display: block;
+	height: 800px;
+	padding: 0;
+	overflow: auto;
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+  <amy>
+    <rsvp>nr</rsvp>
+  </amy>
+	
+	<angela>
+    <rsvp>nr</rsvp>
+  </angela>
+	
+	 <elias>
+    <rsvp>nr</rsvp>
+  </elias>
+	
+  <jimh>
+    <rsvp>nr</rsvp>
+  </jimh>
+ 
+  <john>
+    <rsvp>nr</rsvp>
+  </john>
+	
+	<patty>
+    <rsvp>yes</rsvp>
+  </patty>
+
+  <phil>
+    <rsvp>yes</rsvp>
+  </phil>
+  <ralph>
+    <rsvp>nr</rsvp>
+  </ralph>
+  <robert>
+    <rsvp>nr</rsvp>
+  </robert>
+  <shirley>
+    <rsvp>nr</rsvp>
+  </shirley>
+	
+	<sonia>
+    <rsvp>nr</rsvp>
+  </sonia>
+	
+	<tona>
+    <rsvp>nr</rsvp>
+  </tona>
+
+  <time>730</time>
+  <status1>ralph</status1>
+  <status2>john</status2>
+  <status3>ralph</status3>
+</people>

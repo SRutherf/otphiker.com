@@ -1,0 +1,23 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div id="search">
+                <form method=GET action=http://www.google.com/custom>
+                  <table bgcolor=#E89101
+                   cellspacing=0 border=0>
+                    <tr valign=top>
+                      <td> <strong><A HREF=http://www.google.com/search> </A> </strong></td>
+                      <td> <strong>
+
+                        <input TYPE=text name=q size=31 maxlength=255 value="">
+                        <input type=submit name=sa VALUE="Google Search">
+                        <input type=hidden name=cof VALUE="AH:center;GL:0;S:http://www.philrutherford.com;AWFID:50053db864367844;">
+                        <font face=arial,sans-serif size=-1>
+                        <input type=hidden name=domains value="www.otphiker.com"><br>
+
+                        <input type=radio name=sitesearch value="" checked>
+                        </font></strong><font face=arial,sans-serif size=-1><font size="2" face="Verdana, Arial, Helvetica, sans-serif">www</font><strong>
+                        <input type=radio name=sitesearch value="www.otphiker.com">
+                        </strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">www.otphiker.com</font></font>
+                      </td>
+                    </tr>
+                  </table>
+                </form>
+              </div>

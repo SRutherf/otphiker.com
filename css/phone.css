@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+@media (max-width: 480px){
+	tr td table {
+		padding: 2px;
+		border: 1px solid #ababab;
+		border-color: #ababab;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 70%;
+	}
+}
+
+@media (orientation : landscape){
+	html {
+		-webkit-text-size-adjust: 100%; /* Prevent font scaling in landscape while allowing user zoom */
+	}
+}
+	
+
+

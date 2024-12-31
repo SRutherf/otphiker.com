@@ -1,0 +1,4 @@
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} ^otphiker.com [NC]
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://www.otphiker.com/$1 [R=301,L]

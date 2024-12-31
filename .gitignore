@@ -1,0 +1,62 @@
+# Node.js dependencies
+/node_modules/
+
+# Build outputs
+/dist/
+/build/
+/out/
+*.tgz
+
+# Dependency directories
+/bower_components/
+/vendor/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Operating system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+/.idea/
+/.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Coverage directory used by tools like istanbul
+/coverage/
+
+# Cache files
+/.cache/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.orig
+*.backup
+*.pdf
+*.ppt
+*.mp4
+*.mpg
+*.xlsx
+*.xls
+*.docx
+/Photos/
+/Videos/
+/OTP_Web_Site_Archive_2016-05-05/
+
+# Exclude any other file types or specific file names you want to ignore
